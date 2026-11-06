@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "mailcow-deliverability": {
+            "command": "php",
+            "args": ["/absolute/path/to/mailcow-deliverability-mcp-php/bin/server.php"],
+            "env": {
+                "MAILLOG_PATH": "/var/log/mail",
+                "MAILLOG_TIMEZONE": "UTC"
+            }
+        }
+    }
+}

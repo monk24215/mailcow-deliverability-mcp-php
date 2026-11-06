@@ -1,0 +1,13 @@
+{
+    "$comment": "Provider mappings for the anonymized sample log in examples/logs. Real provider domains (gmail.com, outlook.com, ...) are built in; see src/Analysis/ProviderMap.php.",
+    "gmail.example.com": "Google",
+    "googlemail.example.com": "Google",
+    "outlook.example.com": "Microsoft",
+    "hotmail.example.com": "Microsoft",
+    "live.example.com": "Microsoft",
+    "yahoo.example.com": "Yahoo/AOL",
+    "aol.example.com": "Yahoo/AOL",
+    "icloud.example.com": "Apple",
+    "comcast.example.net": "Comcast",
+    "gmx.example.net": "GMX/Web.de"
+}
